@@ -1,3 +1,3 @@
 @echo off
-java -Drunelite.pluginhub.version=1.8.1 -jar client-1.8.2-SNAPSHOT-shaded.jar
+java -Drunelite.pluginhub.version=1.8.4 -jar client-1.8.5-SNAPSHOT-shaded.jar
 pause
