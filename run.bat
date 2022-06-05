@@ -1,3 +1,3 @@
 @echo off
-java -jar client-1.8.20-SNAPSHOT-shaded.jar
+java -jar client-1.8.22-SNAPSHOT-shaded.jar
 pause
